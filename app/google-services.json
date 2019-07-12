@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803287758564",
+    "firebase_url": "https://fir-pushnotifi-82070.firebaseio.com",
+    "project_id": "fir-pushnotifi-82070",
+    "storage_bucket": "fir-pushnotifi-82070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803287758564:android:68331f00def03d13",
+        "android_client_info": {
+          "package_name": "com.preeti.firebasepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803287758564-8pt9qg9o6arp1eishd50fpkrh1jj0o7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.preeti.firebasepushnotifications",
+            "certificate_hash": "f79238012da3a6faaa93f33d3f00f119cbc54474"
+          }
+        },
+        {
+          "client_id": "803287758564-ptt7332bmkgvatac4qrdo66a85ft2vuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy8_55pyzvepYNtnPDbrVPXzuCcnOrBjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803287758564-ptt7332bmkgvatac4qrdo66a85ft2vuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
